@@ -6,4 +6,6 @@ pandas
 numpy
 matplotlib
 seaborn
-wordcloud collections 
+wordcloud
+collections 
+nltk.corpus
