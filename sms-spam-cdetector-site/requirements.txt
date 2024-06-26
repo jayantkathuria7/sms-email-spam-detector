@@ -9,3 +9,4 @@ seaborn
 wordcloud
 collections 
 nltk.corpus
+stopwords
