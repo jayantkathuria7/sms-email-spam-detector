@@ -1,12 +1,8 @@
 streamlit
-pickle
-string
 nltk
 pandas
 numpy
 matplotlib
 seaborn
 wordcloud
-collections 
-nltk.corpus
-stopwords
+
